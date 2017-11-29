@@ -4,7 +4,7 @@
 
 # How to Install
 
-- Add template to your Rambafile
+- Add template to Rambafile
 ```sh
 ### Templates
 templates:
