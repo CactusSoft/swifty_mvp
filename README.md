@@ -1,4 +1,4 @@
-# swifty_mvp Generamba template
+# MVP Generamba template
 
 ![alt text](https://github.com/CactusSoft/swifty_mvp/blob/master/MVP.png)
 
