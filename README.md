@@ -1,1 +1,12 @@
-# swifty_mvp
+# swifty_mvp Generamba template
+
+![alt text](https://github.com/CactusSoft/swifty_mvp/blob/master/MVP.png)
+
+# How to Install
+
+- Add template to your Rambafile
+```sh
+### Templates
+templates:
+- {name: swifty_mvp, git: 'https://github.com/CactusSoft/swifty_mvp'}
+```
