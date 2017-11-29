@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/CactusSoft/swifty_mvp/blob/master/MVP.png)
 
-# How to Install
+## Installation
 
 - Add template to Rambafile
 ```sh
@@ -10,3 +10,10 @@
 templates:
 - {name: swifty_mvp, git: 'https://github.com/CactusSoft/swifty_mvp'}
 ```
+## Author
+
+MaksimVialykh, maxim.vialykh@cactussoft.biz
+
+## License
+
+swifty_mvp is available under the MIT license. See the LICENSE file for more info.
